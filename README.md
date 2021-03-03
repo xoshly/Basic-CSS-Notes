@@ -1,2 +1,2 @@
-# Basic-CSS-Notes
+# CSS-Notes
 my notes from learning CSS 
